@@ -1,5 +1,5 @@
 # ResNet50-FCN
-论文地址：https://arxiv.org/abs/1411.4038
+论文地址：https://arxiv.org/abs/1411.4038  
 运行地址：https://aistudio.baidu.com/aistudio/projectdetail/4207287?contributionType=1
 ## FCN：Fully Convolutional Networks
 **全卷积模型**：本项目将**CNN**模式后面的**全连接层换成卷积层**，所以整个网络都是**卷积层**。其最后输出的是一张已经标记好的**热图**，而**不是一个概率值**。
